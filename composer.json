@@ -1,0 +1,12 @@
+
+{
+    "autoload": {
+        "files": [
+            "HesTest.php"
+        ]
+    },
+    "name": "juteexj/yarik",
+    "require": {
+        "funct/funct": "dev-master"
+    }
+}
